@@ -28,9 +28,15 @@
 
 ---
 
-> *"Если долго сидеть на берегу реки, то можно увидеть, как мимо проплывет труп твоего врага"* 
+> *"Если долго сидеть на берегу реки, то можно увидеть, как мимо проплывет труп твоего врага"*
+> 
+>![Image](https://github.com/user-attachments/assets/bca87ea5-7e69-49e7-8fca-916e96c12463)
+
+---
+
+**Спасибо, что зашли ко мне в профиль! Увидимся!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dodo.png" alt="Dodo" width="25" height="25" />
 
 ![Image](https://github.com/user-attachments/assets/542643dd-4a75-409f-8b84-2da088297a94)
 
-**Спасибо, что зашли ко мне в профиль! Хорошего дня!** ✨
+
 
