@@ -24,7 +24,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Whale" width="25" height="25" /> Как со мной связаться:
 
-- **Telegram:** [тык](@PinCroll)
+- **Telegram:** [тык](https://t.me/moy_telegram/@PinCroll)
 
 ---
 
