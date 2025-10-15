@@ -1,7 +1,7 @@
 
 
 <h1
-  align="center">Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Aннa</a> 
+  align="center">Привет, меня зовут Aннa 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
 </h1>
 <div align="center">
@@ -28,7 +28,9 @@
 
 ---
 
-> *"Дорогу осилит идущий!"* 🚶‍♂️
+> *"Если долго сидеть на берегу реки, то можно увидеть, как мимо проплывет труп твоего врага"* 
+
+![Image](https://github.com/user-attachments/assets/542643dd-4a75-409f-8b84-2da088297a94)
 
 **Спасибо, что зашли ко мне в профиль! Хорошего дня!** ✨
-![Image](https://github.com/user-attachments/assets/542643dd-4a75-409f-8b84-2da088297a94)
+
