@@ -24,8 +24,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Whale" width="25" height="25" /> Как со мной связаться:
 
-- **Telegram:** [тык](https://t.me/moy_telegram/@PinCroll)
-
+- **Telegram:** [тык](https://t.me/PinCroll)
+  
 ---
 
 > *"Если долго сидеть на берегу реки, то можно увидеть, как мимо проплывет труп твоего врага"*
