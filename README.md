@@ -37,6 +37,3 @@
 **Спасибо, что зашли ко мне в профиль! Увидимся!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dodo.png" alt="Dodo" width="25" height="25" />
 
 ![Image](https://github.com/user-attachments/assets/542643dd-4a75-409f-8b84-2da088297a94)
-
-
-
